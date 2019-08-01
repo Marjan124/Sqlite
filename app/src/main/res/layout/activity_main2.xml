@@ -13,4 +13,20 @@
         android:text="Button"
         tools:layout_editor_absoluteX="-89dp"
         tools:layout_editor_absoluteY="134dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="127dp"
+        tools:layout_editor_absoluteY="371dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        tools:layout_editor_absoluteX="406dp"
+        tools:layout_editor_absoluteY="555dp" />
 </android.support.constraint.ConstraintLayout>
